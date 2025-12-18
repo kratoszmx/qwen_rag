@@ -1,0 +1,7 @@
+tqdm
+openai
+numpy
+transformers
+accelerate
+torch
+dotenv
